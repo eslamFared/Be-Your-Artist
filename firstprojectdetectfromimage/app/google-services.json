@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51377707632",
+    "firebase_url": "https://mlkit-test-3c146.firebaseio.com",
+    "project_id": "mlkit-test-3c146",
+    "storage_bucket": "mlkit-test-3c146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51377707632:android:5c0e8ed1e457a02b",
+        "android_client_info": {
+          "package_name": "com.modernacademy.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51377707632-1uukd7b6ps6i5ed39d8s7blo2b20110k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modernacademy.myapplication",
+            "certificate_hash": "7e38c02ca1aad0f52fb89e261aab3a78bd3eb0aa"
+          }
+        },
+        {
+          "client_id": "51377707632-pgrd8hq920pmbp88cctu2ftn7qk72vap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDS6Kqx7sOLEZWTRr67CNoAV9TJzQm9sU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51377707632-pgrd8hq920pmbp88cctu2ftn7qk72vap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
